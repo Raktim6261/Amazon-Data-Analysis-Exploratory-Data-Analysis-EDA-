@@ -1,2 +1,3 @@
 # Amazon-Data-Analysis-Exploratory-Data-Analysis-EDA-
 Welcome to the Amazon Data Analysis project. This repository focuses on performing Exploratory Data Analysis (EDA) on Amazon's product or customer review dataset to uncover insights about product performance, customer sentiment, sales trends, and user behaviour.
+![Amazon](https://github.com/user-attachments/assets/ccd0c6c1-e537-4d04-85f7-148b1470e24d)
